@@ -1,3 +1,5 @@
+package lev1;
+
 public class NoNumberSum {
     public int noNumberSum(int[] numbers){
         int answer = 45;

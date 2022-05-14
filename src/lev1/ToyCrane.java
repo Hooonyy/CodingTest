@@ -1,3 +1,5 @@
+package lev1;
+
 import java.util.Stack;
 
 public class ToyCrane {

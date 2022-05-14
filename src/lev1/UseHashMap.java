@@ -1,3 +1,5 @@
+package lev1;
+
 import java.util.HashMap;
 
 public class UseHashMap {

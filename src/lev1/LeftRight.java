@@ -1,3 +1,5 @@
+package lev1;
+
 public class LeftRight {
     public String solution(int[] numbers, String hand){
         StringBuilder answer = new StringBuilder();

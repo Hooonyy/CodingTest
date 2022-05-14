@@ -1,3 +1,5 @@
+package lev1;
+
 public class YinYangHarmony {
     public int solution(int[] absolutes, boolean[] signs){
         int answer = 0;

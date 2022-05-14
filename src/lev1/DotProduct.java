@@ -1,3 +1,5 @@
+package lev1;
+
 public class DotProduct {
     public int solution(int[] a, int[] b){
         int answer = 0;

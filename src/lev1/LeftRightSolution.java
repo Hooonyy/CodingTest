@@ -1,3 +1,5 @@
+package lev1;
+
 public class LeftRightSolution {
     int[][] numpadPos = {
             {3,1},

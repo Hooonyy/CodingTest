@@ -1,3 +1,5 @@
+package lev1;
+
 public class NormalizationTest {
     public String normalizationTest(String new_id){
         String answer = "";
