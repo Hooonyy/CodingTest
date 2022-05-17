@@ -1,4 +1,4 @@
-package lev1;
+package lev1_1;
 
 public class GreedyUniform {
     public int solution(int n, int[] lost, int[] reserve) {

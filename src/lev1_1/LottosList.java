@@ -1,9 +1,7 @@
-package lev1;
+package lev1_1;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.LongStream;
 
 public class LottosList {
     public int[] solution(int[] lottos, int[] win_nums){

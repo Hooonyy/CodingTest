@@ -1,4 +1,4 @@
-package lev1;
+package lev1_1;
 
 public class LeftRightSolution {
     int[][] numpadPos = {
